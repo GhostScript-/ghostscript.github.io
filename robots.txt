@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://ghostscript-.github.io/ghostscript.github.io/sitemap.xml
+Sitemap: https://robertt855.com/sitemap.xml
