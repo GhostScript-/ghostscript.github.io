@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>GhostScript</title>
+    <link href="https://ghostscript-.github.io/ghostscript.github.io/feed.xml" rel="self" />
+    <link href="https://ghostscript-.github.io/ghostscript.github.io" />
+    <updated>2026-10-09T14:10:45-04:00</updated>
+    <author>
+        <name>Robert Taylor</name>
+    </author>
+    <id>https://ghostscript-.github.io/ghostscript.github.io</id>
+
+    <entry>
+        <title>My First Attempt</title>
+        <author>
+            <name>Robert Taylor</name>
+        </author>
+        <link href="https://ghostscript-.github.io/ghostscript.github.io/my-first-attempt/"/>
+        <id>https://ghostscript-.github.io/ghostscript.github.io/my-first-attempt/</id>
+
+        <updated>2026-10-09T14:09:12-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    This is a test of a website publisher that produces a static presentation. I hope the outcome is good and proves to be easy.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is a test of a website publisher that produces a static presentation. I hope the outcome is good and proves to be easy.<figure class="post__image"><img loading="lazy"  src="https://ghostscript-.github.io/ghostscript.github.io/media/posts/1//small-creek.jpg" alt="" width="2049" height="1537" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://ghostscript-.github.io/ghostscript.github.io/media/posts/1//responsive/small-creek-xs.jpg 640w ,https://ghostscript-.github.io/ghostscript.github.io/media/posts/1//responsive/small-creek-sm.jpg 768w ,https://ghostscript-.github.io/ghostscript.github.io/media/posts/1//responsive/small-creek-md.jpg 1024w ,https://ghostscript-.github.io/ghostscript.github.io/media/posts/1//responsive/small-creek-lg.jpg 1366w ,https://ghostscript-.github.io/ghostscript.github.io/media/posts/1//responsive/small-creek-xl.jpg 1600w ,https://ghostscript-.github.io/ghostscript.github.io/media/posts/1//responsive/small-creek-2xl.jpg 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

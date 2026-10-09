@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "GhostScript",
+    "description": "",
+    "home_page_url": "https://ghostscript-.github.io/ghostscript.github.io",
+    "feed_url": "https://ghostscript-.github.io/ghostscript.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Robert Taylor"
+    },
+    "items": [
+        {
+            "id": "https://ghostscript-.github.io/ghostscript.github.io/my-first-attempt/",
+            "url": "https://ghostscript-.github.io/ghostscript.github.io/my-first-attempt/",
+            "title": "My First Attempt",
+            "summary": "This is a test of a website publisher that produces a static presentation. I hope the outcome is good and proves to be easy.",
+            "content_html": "<p>This is a test of a website publisher that produces a static presentation. I hope the outcome is good and proves to be easy.<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://ghostscript-.github.io/ghostscript.github.io/media/posts/1//small-creek.jpg\" alt=\"\" width=\"2049\" height=\"1537\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://ghostscript-.github.io/ghostscript.github.io/media/posts/1//responsive/small-creek-xs.jpg 640w ,https://ghostscript-.github.io/ghostscript.github.io/media/posts/1//responsive/small-creek-sm.jpg 768w ,https://ghostscript-.github.io/ghostscript.github.io/media/posts/1//responsive/small-creek-md.jpg 1024w ,https://ghostscript-.github.io/ghostscript.github.io/media/posts/1//responsive/small-creek-lg.jpg 1366w ,https://ghostscript-.github.io/ghostscript.github.io/media/posts/1//responsive/small-creek-xl.jpg 1600w ,https://ghostscript-.github.io/ghostscript.github.io/media/posts/1//responsive/small-creek-2xl.jpg 1920w\"></figure>",
+            "author": {
+                "name": "Robert Taylor"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-09T14:09:12-04:00",
+            "date_modified": "2026-10-09T14:10:45-04:00"
+        }
+    ]
+}
